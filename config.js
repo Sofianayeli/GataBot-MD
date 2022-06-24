@@ -4,16 +4,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['593993684821', 'GataBot-MD 💖🐈', true],
-  ['593968585383'],
-  ['51941819582'],
-  ['51930583082'],
-  ['14509774891']
+   ['50495086382', '𝘕𝘌𝘒𝘖𝘉𝘖𝘛-𝘔𝘋 𝘠 𝘌𝘙𝘐𝘒𝘈 👸🔮', true],
+  ['50497501147'],
+  ['50498965677'],
+  ['525573031859'],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['50495086382'], 
 
 global.APIs = { // API Prefix.
   
@@ -71,8 +70,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '🔮𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗🔮'
+global.author = '𝗡𝗲𝗸𝗼 𝗕𝗼𝘁'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,22 +81,22 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://instagram.com/nekobotmd?igshid=YmMyMTA2M2Y='
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://instagram.com/nekobotmd?igshid=YmMyMTA2M2Y='
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
+global.nn = 'https://chat.whatsapp.com/HPansN34Tw1JACTIo9vvXd'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
+global.nnn = 'https://chat.whatsapp.com/FH4Qa0TqwFOGrMpNp0nTNh'
 global.nnngrupo = nnn
 
 global.paypal = 'https://paypal.me/OficialGD'
@@ -134,8 +133,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗 | 𝗡𝗲𝗸𝗼 𝗕𝗼𝘁'
+global.igfg = '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
